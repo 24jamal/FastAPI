@@ -1,4 +1,4 @@
----
+
 # 🎓 FastAPI Student Management API
 
 A simple **Student Management REST API** built using **FastAPI** to demonstrate:
@@ -176,5 +176,4 @@ DELETE /delete-student?student_id=1
 **Mohamed Jamaludeen J**
 Learning FastAPI & Backend Development
 
-```
 ```
